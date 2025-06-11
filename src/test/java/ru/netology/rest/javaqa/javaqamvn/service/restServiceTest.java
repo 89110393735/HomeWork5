@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 
 
-class restServiceTest {
+class RestServiceTest {
     @Test
     public void test1Calculate() {
         restService service = new restService();
